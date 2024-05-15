@@ -6,9 +6,6 @@ Student: João Pedro Freire Cabral
 Repo: https://github.com/jpfcabral/bst-challenges
 
 
-Video: https://youtu.be/ANCaheMZcvM
-
-
 In a Binary Search Tree (BST), the efficiency of operations varies based on the structure of the tree. Searching, insertion, and deletion typically achieve O(h) time complexity, where h represents the height of the tree. However, the efficiency of these operations can degrade to O(n) in unbalanced trees. Careful balancing ensures optimal performance for all operations in a BST.
 
 ## Challenge 1 - Find Closest Value in BST
